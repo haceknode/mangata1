@@ -1,5 +1,4 @@
 {
-
   "name": "hacek",
   "website": "https://www.githup.com/haceknode",
   "description": "I am in RC",
